@@ -11,9 +11,7 @@
 <p>Hello! I am currently studying Web Application Development. 
 Soon will begin the selection process for the internship, I'm very excited to start this new stage, as I'm sure it will be a great opportunity to evolve as a professional and a source of enormous learning.
 
-During these two years of course, I have seen different front-end and back-end technologies. I have not yet decided which one to choose because both fulfill me when I do the projects. So I am open to any opportunity that is offered to me because I will make the most of it !
-
-Translated with DeepL.com (free version)</p>
+During these two years of course, I have seen different front-end and back-end technologies. I have not yet decided which one to choose because both fulfill me when I do the projects. So I am open to any opportunity that is offered to me because I will make the most of it ! </p>
 
 <br>
 
@@ -39,14 +37,14 @@ Translated with DeepL.com (free version)</p>
 ### 👉 Databases & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,django, bootstrap" />
+    <img src="https://skillicons.dev/icons?i=sqlite,django,bootstrap" />
   </a>
 </p>
 
 ### 👉 IDE, Tools & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,docker, figma, aws" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,docker,figma,aws" />
   </a>
 </p>
 
